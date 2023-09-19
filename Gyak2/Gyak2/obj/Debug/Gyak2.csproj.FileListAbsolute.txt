@@ -1,0 +1,8 @@
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\bin\Debug\Gyak2.exe.config
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\bin\Debug\Gyak2.exe
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\bin\Debug\Gyak2.pdb
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\obj\Debug\Gyak2.csproj.AssemblyReference.cache
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\obj\Debug\Gyak2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\obj\Debug\Gyak2.csproj.CoreCompileInputs.cache
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\obj\Debug\Gyak2.exe
+C:\Users\Yeeroo\Desktop\Gyak2\Gyak2\obj\Debug\Gyak2.pdb
